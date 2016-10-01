@@ -1,0 +1,27 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	font-family: arial;
+	color: white;
+	text-align: center;
+}
+
+p {
+	font-family: arial;
+	color: white;
+	text-align: center;
+}
+
+.blue-text {
+	color: blue;
+}
+
+.yellow-text {
+	color: yellow;
+}
+
+.orange-text {
+	color: orange;
+}
